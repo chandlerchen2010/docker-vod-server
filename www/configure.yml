@@ -1,8 +1,8 @@
 shotgun:
   site:
     ssl: https://
-    script_name: ami_script
-    script_key: bgLi_xonzkpibrqpux1rmnbeg
+    script_name: script_test
+    script_key: pfspbuzybiu4y!qaxMofkjpdt
   media_type:
     - mp4
     - mov
