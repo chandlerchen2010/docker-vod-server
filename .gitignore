@@ -1,2 +1,8 @@
 .DS_Store
 www/data/hls
+__pycache__
+.pytest_cache
+.vscode
+test-reports
+.coverage
+build
