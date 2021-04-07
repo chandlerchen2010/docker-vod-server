@@ -43,7 +43,7 @@ $sudo docker-compose down
 
 ![Script User](https://github.com/loney-liu/docker-vod-server/blob/master/demo/ScriptUser.jpg)
 
-#### Add script user and key to docker-vod-server/www/configure.xml
+#### Add script user and key to docker-vod-server/www/configure.yml
 
 ```
 script_name: your_script_name
